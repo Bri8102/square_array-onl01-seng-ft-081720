@@ -7,4 +7,4 @@ end
 
 
   #square_array.each do | array |
-  #return square_array([array ** 2]) 
+  #return square_array([array ** 2])
