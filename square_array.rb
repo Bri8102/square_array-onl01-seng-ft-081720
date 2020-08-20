@@ -1,6 +1,6 @@
 def square_array(array)
   arr = []
-  array.collect do |number|
+  array.each do |number|
    arr_squared = number * number
    arr << arr_squared
   end
